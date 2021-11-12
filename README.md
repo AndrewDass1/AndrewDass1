@@ -4,15 +4,6 @@
 
 # Current Projects:
 
-<html>
-
-	<head>
-	<title> Andrew Dass </title>
-	<font color = "white">	
-	<head>
-<br>
-<br>
-   </html>
 
 # Blog Posts: 
 https://www.linkedin.com/pulse/what-linux-operating-system-andrew-dass/
