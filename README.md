@@ -3,7 +3,6 @@
 # I am an Infrastructure Automation Fellow at Kura Labs and an Electrical Engineer B.S graduate from Rutgers University
 
 # Current Projects:
-<!DOCTYPE html>
 
 <html>
 
