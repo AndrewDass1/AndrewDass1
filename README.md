@@ -1,4 +1,6 @@
-** Hello I'm Andrew! ** <br>
-<br>
-**Infrastructure Automation Fellow** | **Electrical Engineer** | **Graduated from Rutgers University**
+# <br>
+
+**Hello I'm Andrew!**
+
+# Infrastructure Automation Fellow | Electrical Engineer
 
