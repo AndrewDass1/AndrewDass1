@@ -10,6 +10,7 @@
 <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" width="185" /></a>
 <img src="https://www.jenkins.io/images/logo-title-opengraph.png" width="160" /></a>
 <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png?itok=SBlK2TGU" width="200" /></a>
+<img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="200" /></a>
 
 
 <!--# Projects:-->
