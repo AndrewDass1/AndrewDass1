@@ -1,5 +1,5 @@
 # Andrew Dass
-**Infrastructure Automation Fellow ** | **Electrical Engineer ** <br>
+**Infrastructure Automation Fellow** | **Electrical Engineer** <br>
 <br>
 
 <!--# Projects:-->
