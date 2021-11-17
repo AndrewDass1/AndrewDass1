@@ -3,7 +3,7 @@
 <br>
 
 # Technologies
-<img src="https://www.python.org/static/community_logos/python-logo.png" width="50" /></a>
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="50" /></a>
 
 <!--# Projects:-->
 
