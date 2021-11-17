@@ -7,7 +7,7 @@
 <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" width="50" /></a>
 <img src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg" width="85" /></a>
 <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="65" /></a>
-<img src="https://git-scm.com/images/logo@2x.png" width="95" /></a>
+<img src="https://git-scm.com/images/logo@2x.png" width="90" /></a>
 
 <!--# Projects:-->
 
