@@ -5,6 +5,7 @@
 # Technologies
 <img src="https://docs.microsoft.com/en-us/windows/images/python-logo.png" width="50" /></a>
 <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" width="50" /></a>
+<img src="https://w7.pngwing.com/pngs/77/473/png-transparent-computer-icons-computer-terminal-others-angle-rectangle-logo.png" /></a>
 <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="50" /></a>
 
 
