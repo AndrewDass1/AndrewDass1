@@ -1,6 +1,6 @@
 # Hello I'm Andrew! 
 
-**Infrastructure Automation Fellow at Kura Labs | Electrical Engineer B.S | Graduated from Rutgers University**
+**Infrastructure Automation Fellow** | **Electrical Engineer** | **Graduated from Rutgers University**
 
 # Current Projects:
 
