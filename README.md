@@ -3,7 +3,7 @@
 <br>
 
 # Technologies
-<img src="https://www.python.org/static/community_logos/python-logo.png" width="235" /></a>
+<img src="https://www.python.org/static/community_logos/python-powered-h-50x65.png" width="185" /></a>
 <img src="https://assets.ubuntu.com/v1/57a889f6-ubuntu-logo112.png" width="90" /></a>
 <img src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg" width="115" /></a>
 <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="95" /></a>
