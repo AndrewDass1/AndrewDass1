@@ -13,7 +13,7 @@
 
 # Articles
 **LinkedIn Articles:** <br>
-<a href="https://www.linkedin.com/in/andrewdass/detail/recent-activity/posts/" target="_blank" rel="noopener noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="70" /></a>
+<a href="https://www.linkedin.com/in/andrewdass/detail/recent-activity/posts/" target="_blank" rel="noopener noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="65" /></a>
 
 # Social Media
 **Gmail:** <br>
