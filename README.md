@@ -7,7 +7,7 @@
 <!--# Blog Posts:-->
 
 # Social Media:
-&nbsp; <a href="mailto:dassandrew3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /> </a>
+&nbsp; <a href="mailto:dassandrew3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v8/web-64dp/logo_gmail_2020q4_color_1x_web_64dp.png"  width="50" /> </a>
 
 &nbsp; <a href="https://www.linkedin.com/in/andrewdass/" target="_blank" rel="noopener noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" /></a>
 
