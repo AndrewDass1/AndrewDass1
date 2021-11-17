@@ -7,11 +7,11 @@
 <img src="https://assets.ubuntu.com/v1/57a889f6-ubuntu-logo112.png" width="90" /></a>
 <img src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg" width="115" /></a>
 <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="95" /></a>
-<img src="https://www.jenkins.io/images/logo-title-opengraph.png" width="160" /></a>
+<img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" width="170" /></a>
 
 <br>
-<img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" width="170" /></a>
-<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png?itok=SBlK2TGU" width="20" /></a>
+<img src="https://www.jenkins.io/images/logo-title-opengraph.png" width="160" /></a>
+<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png?itok=SBlK2TGU" width="230" /></a>
 
 
 <!--# Projects:-->
