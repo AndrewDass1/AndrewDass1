@@ -10,7 +10,7 @@
 <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="75" /></a>
 <img src="https://www.jenkins.io/images/logo-title-opengraph.png" width="160" /></a>
 <br>
-<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png?itok=SBlK2TGU" width="190" /></a>
+<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp" width="190" /></a>
 <img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="200" /></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" width="70" /></a>
 
