@@ -3,10 +3,10 @@
 Hello! Thanks for visiting my Github page. Here, you can find projects that I have done, contributed to or currently working on.
 
 ### Connect with me:                  
-[<img src="">](https://www.linkedin.com/in/andrewdass/) 
+[<img src="Linkedin-logoicon.png">](https://www.linkedin.com/in/andrewdass/) 
 
 <a href = "mailto:dassandrew3@gmail.com?body = "">
-<img alt="Send me an email!" src=""
+<img alt="Send me an email!" src="mailicon.png"
          width=50 height=50>
 </a>
 
