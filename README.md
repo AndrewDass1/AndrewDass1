@@ -6,7 +6,7 @@ Hello! Thanks for visiting my Github page. Here, you can find projects that I ha
 [<img src="Linkedin-logoicon.png" width=50 height=50>](https://www.linkedin.com/in/andrewdass/) 
                                                
 <a href="mailto:dassandrew3@gmail.com?body = Message">
-         <img alt="Mail" src="mailicon.png"
+         <img alt="Mail" src="mail.png"
          width=50" height="50">
       </a>
                                                
