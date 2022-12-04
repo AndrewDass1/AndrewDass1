@@ -12,8 +12,4 @@ Hello! Thanks for visiting my Github page. Here, you can find projects that I ha
          width=50" height="50">
       </a>
                                                
-                                               
-
-### My Contributions:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndrewDass1)](https://git.io/streak-stats)
-
+                                              
