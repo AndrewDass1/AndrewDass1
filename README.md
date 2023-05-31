@@ -1,5 +1,5 @@
 # ANDREW DASS
-## Junior DevOps Engineer at Cigna | Contractor for Brooksource
+## DevOps Engineer
 Hello! Thanks for visiting my Github page. Here, you can find projects that I have done, contributed to or currently working on.
 
 ### Connect with me:                                             
